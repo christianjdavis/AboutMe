@@ -1,0 +1,28 @@
+## About Me
+- Favorite Activities
+  - Hiking/Camping
+    - Island Lake
+    - El Cap
+  - Snowboarding
+    - California 
+    - Colorado
+  - Golfing
+- Favorte Sports Teams
+  - Baseball
+    - Red Sox
+    - Giants
+  - Football
+    - Jaguars
+  - Hockey
+    - Panthers
+- Pets
+  - Dog
+    - Info
+      - Name
+      - Birthdate
+        - Calculate Age
+      - Breed
+- Family Heritage
+  - Ethnicity Breakdown
+  - Ancestry and Lineage
+    - Nonna and Zio Nick
